@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PayDesk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PayDesk_jar</output-path>
+    <root id="archive" name="PayDesk.jar">
+      <element id="module-output" name="PayDesk" />
+    </root>
+  </artifact>
+</component>
