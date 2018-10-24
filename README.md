@@ -1,5 +1,5 @@
 # How to start
-  You can run this application with IDE. Open some IDE i used IntelliJ but any IDE should work. Import project and just run main method which is in Main class. When it’s run you should see some sample data in terminal.
+  You can run this application with IDE. Open any IDE i used IntelliJ but any IDE should work. Import project and just run main method which is in Main class. When it’s run you should see some sample data in terminal.
   Alternatively you can run .bat file with double click that will run PayDesk.jar file.
 
 # How it works
