@@ -1,6 +1,6 @@
 # How to start
   You can run this application with IDE. Open any IDE i used IntelliJ but any IDE should work. Import project and just run main method which is in Main class. When it’s run you should see some sample data in terminal.
-  Alternatively you can run MarketStore.bat file with double click that will run PayDesk.jar file in terminal This file is in PayDeskRunnable.
+  Alternatively you can run MarketStore.bat file with double click that will run PayDesk.jar file in terminal This file is in PayDeskRunnable directory.
 
 # How it works
   There are six classes in my solution. Card is parent(super) class of BronzeCard, SilverCard and GoldCard classes. This class is abstract because it has abstract method. I override that method in children classes because there are tree types of cards, and for every card there is different calculation for a discount rate.
